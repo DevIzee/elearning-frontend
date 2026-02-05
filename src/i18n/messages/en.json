@@ -1,0 +1,50 @@
+{
+  "auth": {
+    "login": {
+      "title": "Welcome Back",
+      "description": "Sign in to your account to continue",
+      "email": "Email",
+      "emailPlaceholder": "name@example.com",
+      "password": "Password",
+      "passwordPlaceholder": "Enter your password",
+      "signInButton": "Sign In",
+      "signingIn": "Signing in...",
+      "orContinueWith": "Or continue with",
+      "noAccount": "Don't have an account?",
+      "signUp": "Sign up",
+      "invalidCredentials": "Invalid credentials",
+      "accountInactive": "Account is inactive",
+      "loginFailed": "Login failed"
+    },
+    "register": {
+      "title": "Create Account",
+      "description": "Get started with your free account",
+      "name": "Full Name",
+      "namePlaceholder": "John Doe",
+      "email": "Email",
+      "emailPlaceholder": "name@example.com",
+      "password": "Password",
+      "passwordPlaceholder": "Minimum 8 characters",
+      "passwordConfirm": "Confirm Password",
+      "passwordConfirmPlaceholder": "Re-enter password",
+      "role": "I want to",
+      "roleStudent": "Learn (Student)",
+      "roleInstructor": "Teach (Instructor)",
+      "signUpButton": "Create Account",
+      "signingUp": "Creating account...",
+      "orContinueWith": "Or continue with",
+      "haveAccount": "Already have an account?",
+      "signIn": "Sign in",
+      "registrationFailed": "Registration failed"
+    },
+    "validation": {
+      "emailRequired": "Email is required",
+      "emailInvalid": "Invalid email address",
+      "passwordRequired": "Password is required",
+      "passwordMin": "Password must be at least 8 characters",
+      "passwordMismatch": "Passwords do not match",
+      "nameRequired": "Name is required",
+      "nameMin": "Name must be at least 2 characters"
+    }
+  }
+}

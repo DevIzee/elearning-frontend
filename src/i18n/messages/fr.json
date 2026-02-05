@@ -1,0 +1,50 @@
+{
+  "auth": {
+    "login": {
+      "title": "Bon retour",
+      "description": "Connectez-vous à votre compte pour continuer",
+      "email": "Email",
+      "emailPlaceholder": "nom@exemple.com",
+      "password": "Mot de passe",
+      "passwordPlaceholder": "Entrez votre mot de passe",
+      "signInButton": "Se connecter",
+      "signingIn": "Connexion...",
+      "orContinueWith": "Ou continuer avec",
+      "noAccount": "Pas de compte ?",
+      "signUp": "S'inscrire",
+      "invalidCredentials": "Identifiants invalides",
+      "accountInactive": "Compte inactif",
+      "loginFailed": "Échec de connexion"
+    },
+    "register": {
+      "title": "Créer un compte",
+      "description": "Commencez avec votre compte gratuit",
+      "name": "Nom complet",
+      "namePlaceholder": "Jean Dupont",
+      "email": "Email",
+      "emailPlaceholder": "nom@exemple.com",
+      "password": "Mot de passe",
+      "passwordPlaceholder": "Minimum 8 caractères",
+      "passwordConfirm": "Confirmer le mot de passe",
+      "passwordConfirmPlaceholder": "Re-saisir le mot de passe",
+      "role": "Je veux",
+      "roleStudent": "Apprendre (Étudiant)",
+      "roleInstructor": "Enseigner (Formateur)",
+      "signUpButton": "Créer un compte",
+      "signingUp": "Création du compte...",
+      "orContinueWith": "Ou continuer avec",
+      "haveAccount": "Déjà un compte ?",
+      "signIn": "Se connecter",
+      "registrationFailed": "Échec d'inscription"
+    },
+    "validation": {
+      "emailRequired": "Email requis",
+      "emailInvalid": "Email invalide",
+      "passwordRequired": "Mot de passe requis",
+      "passwordMin": "Le mot de passe doit contenir au moins 8 caractères",
+      "passwordMismatch": "Les mots de passe ne correspondent pas",
+      "nameRequired": "Nom requis",
+      "nameMin": "Le nom doit contenir au moins 2 caractères"
+    }
+  }
+}
