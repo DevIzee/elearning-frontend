@@ -37,6 +37,28 @@
       "signIn": "Sign in",
       "registrationFailed": "Registration failed"
     },
+    "callback": {
+      "processing": "Processing authentication...",
+      "success": "Authentication successful! Redirecting...",
+      "error": "Authentication failed",
+      "missingParameters": "Missing authentication parameters",
+      "processingFailed": "Failed to process authentication data"
+    },
+    "error": {
+      "invalidProvider": "Invalid OAuth Provider",
+      "invalidProviderDescription": "The OAuth provider you selected is not supported.",
+      "oauthFailed": "Authentication Failed",
+      "oauthFailedDescription": "We could not authenticate you with the selected provider.",
+      "accessDenied": "Access Denied",
+      "accessDeniedDescription": "You denied access to your account information.",
+      "unknownError": "Authentication Error",
+      "unknownErrorDescription": "Something went wrong during the authentication process.",
+      "errorDetails": "Error Details:",
+      "redirectingIn": "Redirecting to login in",
+      "seconds": "seconds...",
+      "goToLoginNow": "Go to Login Now",
+      "goToHome": "Go to Home"
+    },
     "validation": {
       "emailRequired": "Email is required",
       "emailInvalid": "Invalid email address",

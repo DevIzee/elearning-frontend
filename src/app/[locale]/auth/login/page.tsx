@@ -12,7 +12,7 @@
 
 "use client";
 
-import { GitHubIcon, GoogleIcon } from "@/components/icons/social-icons";
+import { GitHubIcon, GoogleIcon } from "@/components/icons/icons";
 import { Button } from "@/components/ui/button";
 import {
   Card,

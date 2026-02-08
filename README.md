@@ -19,7 +19,6 @@ PNPM 10.25.0
 
 ```shell
 pnpm install
-php artisan migrate:fresh --seed
 ```
 
 ### Optimisation

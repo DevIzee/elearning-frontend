@@ -1,5 +1,5 @@
 /**
- * Middleware i18n
+ * Proxy i18n (anciennement middleware)
  *
  * Détecte automatiquement la langue de l'utilisateur
  * et ajoute le préfixe de langue dans l'URL (/en/... ou /fr/...)
